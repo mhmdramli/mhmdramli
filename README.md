@@ -18,10 +18,7 @@ Junior Developer yang sedang antusias belajar **Javascript** dan **Logic Program
 ---
 *“Setiap baris kode adalah langkah menuju sesuatu yang besar.”*
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
