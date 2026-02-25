@@ -1,4 +1,4 @@
-# Hi, I'm [Ramli] 👋
+# Hi, I'm Ramli 👋
 
 Junior Developer yang sedang antusias belajar **Python** dan **Logic Programming**. Senang mengeksplorasi bagaimana kode bisa memecahkan masalah sederhana.
 
