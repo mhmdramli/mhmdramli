@@ -9,6 +9,12 @@ Junior Developer yang sedang antusias belajar **Python** dan **Logic Programming
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,html,js" />
+  </a>
+</p>
+
 ---
 
 ### 📫 Hubungi Saya
