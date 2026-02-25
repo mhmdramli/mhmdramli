@@ -1,6 +1,6 @@
 # Hi, I'm Ramli 👋
 
-Junior Developer yang sedang antusias belajar **Python** dan **Logic Programming**. Senang mengeksplorasi bagaimana kode bisa memecahkan masalah sederhana.
+Junior Developer yang sedang antusias belajar **Javascript** dan **Logic Programming**. Senang mengeksplorasi bagaimana kode bisa memecahkan masalah sederhana.
 
 ---
 
