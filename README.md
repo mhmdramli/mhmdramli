@@ -1,11 +1,17 @@
 # Hi, I'm [Ramli] 👋
 
-- 🌱 Saat ini saya sedang belajar: **Python & Logic Programming**
-- 🔭 Saya sedang mengerjakan: Proyek portofolio pribadi dan latihan automasi
-- ⚡ Fun fact: Saya baru tahu kalau 'bug' pertama di dunia benar-benar seekor serangga!
-- 📫 Cara menghubungi saya: [Link Instagram/LinkedIn]
+Junior Developer yang sedang antusias belajar **Python** dan **Logic Programming**. Senang mengeksplorasi bagaimana kode bisa memecahkan masalah sederhana.
 
-### Tech Stack yang sedang dipelajari:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+### 🌱 Sedang Belajar
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 📫 Hubungi Saya
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhamadramli0806@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/554296571483652096)
+
+---
+*“Setiap baris kode adalah langkah menuju sesuatu yang besar.”*
